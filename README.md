@@ -1,12 +1,14 @@
 # Detect Potato disease by using TensorFlow
 
-## Load data into tensorflow
-    Step 1: Classify images into batchs
-    Step 2: Train test split
-    Step 3: Make layers
+## A simple example using Tensorflow and CNN to classify images
 
-## Making model using CNN (Convolutional neural network)
-    Step 1: Making model's layers
-    Step 2: Make optimizer and loss function
-    Step 3: Model.fit
-    Step 4: Export the images with actual and predicted title
+This project is an exercise after learning Tensorflow and CNN. Every part of this project is following these steps:
+* Classify images into batchs
+* Train test split
+* Make layers
+* Make model's layers
+* Make optimizer and loss function
+* Model.fit
+* Export the images with actual and predicted title
+
+
